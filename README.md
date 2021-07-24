@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 ### Hugo Azevedo - [Cientista de Dados em Formação] 👋
 
-## Eu estou cursando engenharia civil, focando meus estudos em ciência de dados em que aplico no setor de óleo e gás (para detectar anomalias em poços de petróleo), no setor da construção civil (classificar empreendimentos imobiliários na minha cidade) e no setor financeiro (classificar os clientes de uma gestora de investimentos e descobrir a melhor recomendação de produto para cada um).
+## Eu estou cursando engenharia civil, focando meus estudos em ciência de dados, nas seguintes áreas de atuação:
+
+- No setor de Óleo e Gás: detectar anomalias em poços de petróleo
+- No setor da construção civil: Classificar empreendimentos imobiliários na minha cidade
+- No setor financeiro: classificar os clientes de uma gestora de investimentos e descobrir a melhor recomendação de produto para cada um
 
 ### Redes Sociais:
 
